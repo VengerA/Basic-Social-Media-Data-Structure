@@ -1,0 +1,95 @@
+##### USER COLLECTION #####
+Number of users: 5
+--------------------
+UserId: 3	Username: eminem	Birthday: 17.10.1972
+Followers: 2	Posts: 3
+Followers:
+	Username: 50_cent
+	Username: dr_dre
+Posts:
+	PostId: 7
+		Author: eminem
+		Content: Now this looks like a job for me, so everybody just follow me
+	PostId: 3
+		Author: eminem
+		Content: Hush little baby don't you cry everything's gonna be alright
+	PostId: 5
+		Author: eminem
+		Content: Will the real slim shady please stand up?
+--------------------
+UserId: 1	Username: ice_cube	Birthday: 15.6.1969
+Followers: 3	Posts: 3
+Followers:
+	Username: snoop_dogg
+	Username: eminem
+	Username: dr_dre
+Posts:
+	PostId: 8
+		Author: ice_cube
+		Content: Don't be scared of them people, walk up in there and show them that you equal
+	PostId: 4
+		Author: ice_cube
+		Content: You better check yo self before you wreck yo self. 'Cause I'm bad for your health. I come real stealth
+	PostId: 2
+		Author: ice_cube
+		Content: Today I didn't even have to use my AK, I gotta say it was a good day
+--------------------
+UserId: 7	Username: dr_dre	Birthday: 18.2.1965
+Followers: 4	Posts: 2
+Followers:
+	Username: ice_cube
+	Username: snoop_dogg
+	Username: eminem
+	Username: 50_cent
+Posts:
+	PostId: 11
+		Author: dr_dre
+		Content: And I still got love for the streets, it's the D-R-E
+	PostId: 9
+		Author: dr_dre
+		Content: It literally feels like a lifetime ago. But I still remember the sh.t like it was just yesterday though
+--------------------
+UserId: 2	Username: snoop_dogg	Birthday: 20.10.1971
+Followers: 3	Posts: 1
+Followers:
+	Username: ice_cube
+	Username: eminem
+	Username: dr_dre
+Posts:
+	PostId: 10
+		Author: snoop_dogg
+		Content: One, two, three and to the four. Snoop Doggy Dogg and Dr. Dre is at the door
+--------------------
+UserId: 6	Username: 50_cent	Birthday: 6.7.1975
+Followers: 1	Posts: 0
+Followers:
+	Username: dr_dre
+##### ALL POSTS #####
+Number of posts: 9
+	PostId: 2
+		Author: ice_cube
+		Content: Today I didn't even have to use my AK, I gotta say it was a good day
+	PostId: 3
+		Author: eminem
+		Content: Hush little baby don't you cry everything's gonna be alright
+	PostId: 4
+		Author: ice_cube
+		Content: You better check yo self before you wreck yo self. 'Cause I'm bad for your health. I come real stealth
+	PostId: 5
+		Author: eminem
+		Content: Will the real slim shady please stand up?
+	PostId: 7
+		Author: eminem
+		Content: Now this looks like a job for me, so everybody just follow me
+	PostId: 8
+		Author: ice_cube
+		Content: Don't be scared of them people, walk up in there and show them that you equal
+	PostId: 9
+		Author: dr_dre
+		Content: It literally feels like a lifetime ago. But I still remember the sh.t like it was just yesterday though
+	PostId: 10
+		Author: snoop_dogg
+		Content: One, two, three and to the four. Snoop Doggy Dogg and Dr. Dre is at the door
+	PostId: 11
+		Author: dr_dre
+		Content: And I still got love for the streets, it's the D-R-E
